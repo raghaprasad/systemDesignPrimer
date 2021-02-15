@@ -49,3 +49,6 @@ class ContentProviderRequest
 --- 
 
 Is better to inherit or compose? 
+
+Composition is generally better than inheritance, 
+rule of thumb : achieve polymorphism via composition rather than inheritance
